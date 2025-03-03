@@ -1,2 +1,1 @@
-Button error - hidden after opening
-
+Welcome to my space logbook. It contains scientific discoveries and thoughts I have along my journey through the cosmos.
